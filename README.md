@@ -43,9 +43,9 @@ This professionally designed Job Board App was created as part of a job applicat
 <div align="center">
   <table>
     <tr>
-      <td><img src="screenshots/listing.jpeg" width="200" alt="Job List"></td>
-      <td><img src="screenshots/job_detail.png" width="200" alt="Job Details"></td>
-      <td><img src="screenshots/saved_jobs.jpeg" width="200" alt="Saved Jobs"></td>
+      <td><img src="screenshots/job_listing.jpeg" width="200" alt="Job List"></td>
+      <td><img src="screenshots/job_detail.jpeg" width="200" alt="Job Details"></td>
+      <td><img src="screenshots/saved_job.jpeg" width="200" alt="Saved Jobs"></td>
     </tr>
     <tr>
       <td><p align="center">Job Listings</p></td>
